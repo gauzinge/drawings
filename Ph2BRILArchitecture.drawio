@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-12T12:41:20.077Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="l9jCIHkOAVQrE0muQ5TW" version="14.3.1" type="github">
+<mxfile modified="2021-03-09T13:03:59.994Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="0ITHZFUa4dC-4_M51Wfs" version="14.3.1" type="github">
   <diagram name="Page-1" id="75ae5057-2f1f-a65a-41a6-c58fb5237df7">
     <mxGraphModel dx="1186" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9xZ__yJcOjTzKGVj3mQi-7" value="TCDS Master (super DTH)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#6c8ebf;fillColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="9xZ__yJcOjTzKGVj3mQi-7" value="TCDS Captain (super DTH)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#6c8ebf;fillColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="480" y="94" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.973;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#FFD966;" parent="1" source="9xZ__yJcOjTzKGVj3mQi-8" target="9xZ__yJcOjTzKGVj3mQi-7" edge="1">
@@ -143,7 +143,7 @@
         <mxCell id="9xZ__yJcOjTzKGVj3mQi-8" value="GT processor" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="811" y="100" width="10" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-25" value="Lumi TRG&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;strokeWidth=2;strokeColor=#FF0080;horizontal=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" source="9xZ__yJcOjTzKGVj3mQi-9" target="9xZ__yJcOjTzKGVj3mQi-7" edge="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-25" value="Lumi TRG&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=3;horizontal=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;strokeColor=#FF1FDA;" parent="1" source="9xZ__yJcOjTzKGVj3mQi-9" target="9xZ__yJcOjTzKGVj3mQi-7" edge="1">
           <mxGeometry x="-0.0237" y="5" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="365" y="445" />
@@ -266,31 +266,31 @@
             <mxPoint x="12" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-45" value="super DTH" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-45" value="" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="97" width="10" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-46" value="super DTH" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-46" value="" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="97" width="10" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-47" value="super DTH" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-47" value="" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="97" width="10" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-48" value="super DTH" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-48" value="" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="97" width="10" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-49" value="super DTH" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-49" value="" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="97" width="10" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-50" value="super DTH" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-50" value="" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="97" width="10" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-51" value="super DTH" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-51" value="" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="97" width="10" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-52" value="super DTH" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-52" value="" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="97" width="10" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-53" value="super DTH" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-53" value="" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=top;verticalAlign=bottom;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="97" width="10" height="113" as="geometry" />
         </mxCell>
         <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#66B2FF;strokeWidth=2;" parent="1" source="e_Fd-XsdZ4aZpfvhOUSF-54" edge="1">
@@ -301,10 +301,27 @@
             <mxPoint x="130" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VDPa8rt16qKgHQVNXyiY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#3399FF;" parent="1" source="e_Fd-XsdZ4aZpfvhOUSF-54" target="9xZ__yJcOjTzKGVj3mQi-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NxsEiyhEofsKooXCgGl4-2" value="Technical Triggers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="e_Fd-XsdZ4aZpfvhOUSF-55">
+          <mxGeometry x="-0.3221" y="-2" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-54" value="BPTX optical output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="VDPa8rt16qKgHQVNXyiY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#3399FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9xZ__yJcOjTzKGVj3mQi-9" target="9xZ__yJcOjTzKGVj3mQi-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="370" />
+              <mxPoint x="300" y="370" />
+              <mxPoint x="300" y="40" />
+              <mxPoint x="817" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxsEiyhEofsKooXCgGl4-1" value="Technical Triggers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VDPa8rt16qKgHQVNXyiY-3">
+          <mxGeometry x="-0.2463" y="2" relative="1" as="geometry">
+            <mxPoint x="252" y="-105" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-54" value="BPTX B1&amp;amp;B2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_Fd-XsdZ4aZpfvhOUSF-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FF99FF;strokeWidth=2;entryX=0.558;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="e_Fd-XsdZ4aZpfvhOUSF-3" target="e_Fd-XsdZ4aZpfvhOUSF-13" edge="1">
@@ -848,7 +865,7 @@
         <mxCell id="VDPa8rt16qKgHQVNXyiY-92" value="40 MHz Scouting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="945" y="110" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kvfRWN7beHJI-5MxRQof-1" value="SAL Blade" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;horizontal=0;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="kvfRWN7beHJI-5MxRQof-1" value="FBCM Blade" style="shape=mxgraph.rack.oracle.netra_cp3260_atca_blade_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;horizontal=0;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="450" y="484" width="10" height="113" as="geometry" />
         </mxCell>
         <mxCell id="kvfRWN7beHJI-5MxRQof-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
